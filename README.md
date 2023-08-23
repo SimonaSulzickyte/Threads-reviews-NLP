@@ -1,6 +1,6 @@
 # Threads-reviews-NLP
 
-This project employs NLP methods to classify reviews of the Threads app, sourced from [Kaggle](https://www.kaggle.com/datasets/saloni1712/threads-an-instagram-app-reviews). Every review is associated with a rating ranging from 1 to 5. Thus, the initial objective of this project is to train a DistilBERT model for the classification of reviews into five different ratings. The resulting confusion matrix of this model is as follows:
+This project employs NLP methods to classify reviews of the Threads app, sourced from [Kaggle](https://www.kaggle.com/datasets/saloni1712/threads-an-instagram-app-reviews). Every review is associated with a rating ranging from 1 to 5. Thus, the initial objective of this project is to fine-tune a DistilBERT model for the classification of reviews into five different ratings. The resulting confusion matrix of this model is as follows:
 
 ![image](images/CM_ratings.png)
 
