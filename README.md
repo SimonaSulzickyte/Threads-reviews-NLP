@@ -26,7 +26,7 @@ Based on the results, it is apparent that the classification into negative and p
 |----------|----------|
 | 0.89     | 0.89     | 
 
-The results clearly indicate that fine-tuning contributed to an increase in both accuracy and F1-score, however the performance in the classification of negative reviews decreased. Additionally, the proportion of misclassifications notably decreased in comparison to the initial rating-based classification.
+The results clearly indicate that fine-tuning contributed to an increase in both accuracy and F1-score, however the performance in the classification of negative reviews decreased slightly, but this is more than compensated by the improvement in the classification of the positive class. Additionally, the proportion of misclassifications notably decreased in comparison to the initial rating-based classification.
 
 To gain a deeper insight into the factors influencing various reviews, one can create word clouds for both positive and negative reviews:
 
